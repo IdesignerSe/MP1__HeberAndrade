@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\bin\Debug\netcoreapp3.1\MP1__HeberAndrade.exe
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\bin\Debug\netcoreapp3.1\MP1__HeberAndrade.deps.json
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\bin\Debug\netcoreapp3.1\MP1__HeberAndrade.runtimeconfig.json
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\bin\Debug\netcoreapp3.1\MP1__HeberAndrade.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\bin\Debug\netcoreapp3.1\MP1__HeberAndrade.dll
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\bin\Debug\netcoreapp3.1\MP1__HeberAndrade.pdb
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.AssemblyInfo.cs
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.dll
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.pdb
+C:\Users\Hp\source\repos\MP1__HeberAndrade\MP1__HeberAndrade\obj\Debug\netcoreapp3.1\MP1__HeberAndrade.genruntimeconfig.cache
